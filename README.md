@@ -31,5 +31,7 @@ You must submit the assignment via github classrooms, any late submissions with 
 	- https://www.tutorialspoint.com/unity/unity_transforms_and_object_parenting.htm
 - Vuforia Image Target Tutorial
 	- https://www.youtube.com/watch?v=Z4bBMpa4xWo
+- Using Git LFS and Using Git with Unity
+	- https://thoughtbot.com/blog/how-to-git-with-unity
 
 
