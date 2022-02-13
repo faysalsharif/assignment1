@@ -7,7 +7,7 @@ Must have the following:
 - You must have at minimum 3 Models
 	- One model that you created from scratch aside from the coin created in class
 	- One that you found online
-	- One more created from scratch or online
+	- Using a coin but using your face as a texture
 - Display the models on a AR pedestal, using an image target or ground floor target
 - Have buttons to swap between the models
 
